@@ -52,7 +52,7 @@ No exploitation, payload generation, or attack capabilities are included – it 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/VulnPortScanner.git
+   git clone https://github.com/arsaeed456/VulnPortScanner.git
    cd VulnPortScanner
    ```
 
