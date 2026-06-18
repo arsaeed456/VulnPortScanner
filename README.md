@@ -61,6 +61,8 @@ No exploitation, payload generation, or attack capabilities are included – it 
    pip install requests
    ```
    *(If you’re on a system that blocks global pip installs, use a virtual environment or install via your system package manager – e.g., `sudo apt install python3-requests` on Debian/Kali.)*
+   3. (Optional) Install all dependencies using:
+   pip install -r requirements.txt
 
 ---
 
